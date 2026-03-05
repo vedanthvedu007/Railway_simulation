@@ -1,0 +1,22 @@
+RAILWAY TRAFFIC OPTIMIZATION REPORT
+==================================
+
+Total Delay Baseline   : 436.00
+Total Delay Proposed   : 264.00
+Total Delay Validation : 152.00
+
+Domino Baseline        : 29.00
+Domino Proposed        : 0.00
+Domino Validation      : 0.00
+
+Station-wise Domino Delay
+Mysuru               Baseline=9.00  Proposed=0.00  Validation=0.00
+Mandya               Baseline=13.00  Proposed=0.00  Validation=0.00
+Ramanagara           Baseline=5.00  Proposed=0.00  Validation=0.00
+Bengaluru            Baseline=2.00  Proposed=0.00  Validation=0.00
+
+Prediction RMSE : 1.98 minutes
+
+Conclusion:
+Predictive control using Kalman filtering and ML-based delay
+forecasting significantly reduces cascading delays.

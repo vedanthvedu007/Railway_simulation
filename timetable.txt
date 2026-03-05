@@ -1,0 +1,46 @@
+EFFECTIVE TIMETABLE (PROPOSED SYSTEM)
+====================================
+
+Note: Times are derived from simulation minutes mapped to clock time.
+
+Train: Wodeyar
+Station             Arrival     Departure   
+--------------------------------------------
+Mysuru              06:01     06:04
+Mandya              06:05     06:08
+Ramanagara          06:06     06:10
+Bengaluru           06:07     06:12
+
+Train: Passenger
+Station             Arrival     Departure   
+--------------------------------------------
+Mysuru              06:01     06:04
+Mandya              06:03     06:06
+Ramanagara          06:05     06:09
+Bengaluru           06:06     06:11
+
+Train: RajyaRani
+Station             Arrival     Departure   
+--------------------------------------------
+Mysuru              06:01     06:04
+Mandya              06:02     06:05
+Ramanagara          06:03     06:07
+Bengaluru           06:05     06:10
+
+Train: Cuddalore
+Station             Arrival     Departure   
+--------------------------------------------
+Mysuru              06:01     06:04
+Mandya              06:03     06:06
+Ramanagara          06:09     06:13
+Bengaluru           06:11     06:16
+
+Train: Shatabdi
+Station             Arrival     Departure   
+--------------------------------------------
+Mysuru              06:01     06:04
+Mandya              06:02     06:05
+Ramanagara          06:03     06:07
+Bengaluru           06:04     06:09
+
+Note: Timetable times indicate desired departures; platform constraints are enforced during validation.

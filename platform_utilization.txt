@@ -1,0 +1,47 @@
+PLATFORM UTILIZATION REPORT
+===========================
+
+Mysuru
+  Baseline
+    Peak Usage             : 5
+    Bottleneck Probability : 0.44
+  Proposed
+    Peak Usage             : 5
+    Bottleneck Probability : 0.40
+  Validation
+    Peak Usage             : 5
+    Bottleneck Probability : 0.60
+
+Mandya
+  Baseline
+    Peak Usage             : 3
+    Bottleneck Probability : 0.46
+  Proposed
+    Peak Usage             : 2
+    Bottleneck Probability : 0.36
+  Validation
+    Peak Usage             : 5
+    Bottleneck Probability : 0.80
+
+Ramanagara
+  Baseline
+    Peak Usage             : 2
+    Bottleneck Probability : 0.38
+  Proposed
+    Peak Usage             : 2
+    Bottleneck Probability : 0.14
+  Validation
+    Peak Usage             : 5
+    Bottleneck Probability : 0.80
+
+Bengaluru
+  Baseline
+    Peak Usage             : 4
+    Bottleneck Probability : 0.06
+  Proposed
+    Peak Usage             : 2
+    Bottleneck Probability : 0.00
+  Validation
+    Peak Usage             : 5
+    Bottleneck Probability : 0.40
+
